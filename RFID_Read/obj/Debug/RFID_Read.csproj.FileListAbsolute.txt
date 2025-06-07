@@ -1,0 +1,13 @@
+E:\SSM\Study\c#\RFID_Read\RFID_Read\bin\Debug\RFID_Read.exe.config
+E:\SSM\Study\c#\RFID_Read\RFID_Read\bin\Debug\RFID_Read.exe
+E:\SSM\Study\c#\RFID_Read\RFID_Read\bin\Debug\RFID_Read.pdb
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.csproj.AssemblyReference.cache
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.Form1.resources
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.Properties.Resources.resources
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.csproj.GenerateResource.cache
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.csproj.CoreCompileInputs.cache
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.exe
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.pdb
+E:\SSM\Study\c#\RFID_Read\RFID_Read\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\SSM\Study\c#\RFID_Read\RFID_Read\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\SSM\Study\c#\RFID_Read\RFID_Read\obj\Debug\RFID_Read.csproj.Up2Date
