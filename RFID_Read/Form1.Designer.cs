@@ -78,7 +78,7 @@
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Location = new System.Drawing.Point(12, 24);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(178, 20);
+            this.comboBox1.Size = new System.Drawing.Size(192, 20);
             this.comboBox1.TabIndex = 1;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -86,7 +86,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(12, 72);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(89, 23);
             this.button1.TabIndex = 2;
             this.button1.Text = "연결하기";
             this.button1.UseVisualStyleBackColor = true;
@@ -96,7 +96,7 @@
             // 
             this.button2.Location = new System.Drawing.Point(115, 72);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(89, 23);
             this.button2.TabIndex = 3;
             this.button2.Text = "연결끊기";
             this.button2.UseVisualStyleBackColor = true;
@@ -114,16 +114,16 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(264, 33);
+            this.richTextBox1.Location = new System.Drawing.Point(241, 33);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(547, 348);
+            this.richTextBox1.Size = new System.Drawing.Size(556, 348);
             this.richTextBox1.TabIndex = 5;
             this.richTextBox1.Text = "";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(262, 9);
+            this.label3.Location = new System.Drawing.Point(239, 9);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(57, 12);
             this.label3.TabIndex = 8;
@@ -136,15 +136,16 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(264, 420);
+            this.textBox2.Location = new System.Drawing.Point(241, 420);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(148, 21);
             this.textBox2.TabIndex = 10;
+            this.textBox2.Text = "250";
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(606, 418);
+            this.button4.Location = new System.Drawing.Point(584, 418);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(101, 23);
             this.button4.TabIndex = 11;
@@ -154,44 +155,45 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(713, 418);
+            this.button5.Location = new System.Drawing.Point(701, 418);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(96, 23);
             this.button5.TabIndex = 12;
-            this.button5.Text = "종료";
+            this.button5.Text = "중단";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(439, 420);
+            this.textBox3.Location = new System.Drawing.Point(419, 420);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(148, 21);
             this.textBox3.TabIndex = 14;
+            this.textBox3.Text = "100";
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(262, 405);
+            this.label5.Location = new System.Drawing.Point(239, 405);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(45, 12);
+            this.label5.Size = new System.Drawing.Size(57, 12);
             this.label5.TabIndex = 15;
-            this.label5.Text = "Interval";
+            this.label5.Text = "요청 주기";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(437, 405);
+            this.label6.Location = new System.Drawing.Point(417, 405);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(38, 12);
+            this.label6.Size = new System.Drawing.Size(98, 12);
             this.label6.TabIndex = 16;
-            this.label6.Text = "Count";
+            this.label6.Text = "Tag ID 요청 횟수";
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(419, 527);
+            this.textBox5.Location = new System.Drawing.Point(393, 526);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(248, 21);
             this.textBox5.TabIndex = 19;
@@ -200,7 +202,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(417, 512);
+            this.label8.Location = new System.Drawing.Point(391, 511);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(109, 12);
             this.label8.TabIndex = 20;
@@ -210,7 +212,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(559, 459);
+            this.label9.Location = new System.Drawing.Point(532, 459);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(109, 12);
             this.label9.TabIndex = 21;
@@ -219,7 +221,7 @@
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(561, 474);
+            this.textBox6.Location = new System.Drawing.Point(534, 474);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(248, 21);
             this.textBox6.TabIndex = 22;
@@ -231,26 +233,26 @@
             // 
             // richTextBox2
             // 
-            this.richTextBox2.Location = new System.Drawing.Point(841, 33);
+            this.richTextBox2.Location = new System.Drawing.Point(818, 33);
             this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(194, 561);
+            this.richTextBox2.Size = new System.Drawing.Size(231, 561);
             this.richTextBox2.TabIndex = 26;
             this.richTextBox2.Text = "";
             this.richTextBox2.TextChanged += new System.EventHandler(this.richTextBox2_TextChanged);
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(960, 4);
+            this.button8.Location = new System.Drawing.Point(974, 4);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 23);
             this.button8.TabIndex = 27;
-            this.button8.Text = "Reset";
+            this.button8.Text = "초기화";
             this.button8.UseVisualStyleBackColor = true;
             this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(623, 570);
+            this.button9.Location = new System.Drawing.Point(606, 570);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(105, 24);
             this.button9.TabIndex = 28;
@@ -260,7 +262,7 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(734, 570);
+            this.button10.Location = new System.Drawing.Point(720, 570);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(77, 24);
             this.button10.TabIndex = 29;
@@ -270,7 +272,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(264, 573);
+            this.textBox4.Location = new System.Drawing.Point(241, 573);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(348, 21);
             this.textBox4.TabIndex = 30;
@@ -278,7 +280,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(264, 474);
+            this.textBox1.Location = new System.Drawing.Point(241, 474);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(248, 21);
             this.textBox1.TabIndex = 31;
@@ -287,7 +289,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(262, 459);
+            this.label4.Location = new System.Drawing.Point(239, 459);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(121, 12);
             this.label4.TabIndex = 32;
@@ -299,7 +301,7 @@
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Location = new System.Drawing.Point(12, 202);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(178, 20);
+            this.comboBox2.Size = new System.Drawing.Size(192, 20);
             this.comboBox2.TabIndex = 35;
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
@@ -316,7 +318,7 @@
             // 
             this.button3.Location = new System.Drawing.Point(115, 239);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.Size = new System.Drawing.Size(89, 23);
             this.button3.TabIndex = 37;
             this.button3.Text = "저장하기";
             this.button3.UseVisualStyleBackColor = true;
@@ -326,7 +328,7 @@
             // 
             this.button7.Location = new System.Drawing.Point(12, 149);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(178, 23);
+            this.button7.Size = new System.Drawing.Size(192, 23);
             this.button7.TabIndex = 38;
             this.button7.Text = "Tag 주소 스캔";
             this.button7.UseVisualStyleBackColor = true;
@@ -345,7 +347,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(839, 9);
+            this.label12.Location = new System.Drawing.Point(816, 9);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(93, 12);
             this.label12.TabIndex = 40;
@@ -356,7 +358,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1047, 606);
+            this.ClientSize = new System.Drawing.Size(1061, 606);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.button7);

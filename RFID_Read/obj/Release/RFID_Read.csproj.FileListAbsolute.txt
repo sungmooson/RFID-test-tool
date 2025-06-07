@@ -1,0 +1,17 @@
+D:\study\code\C#\RFID_Read\RFID_Read\bin\Release\RFID_Read.exe.config
+D:\study\code\C#\RFID_Read\RFID_Read\bin\Release\RFID_Read.exe
+D:\study\code\C#\RFID_Read\RFID_Read\bin\Release\RFID_Read.pdb
+D:\study\code\C#\RFID_Read\RFID_Read\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\study\code\C#\RFID_Read\RFID_Read\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.csproj.AssemblyReference.cache
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.Form1.resources
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.Properties.Resources.resources
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.csproj.GenerateResource.cache
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.csproj.CoreCompileInputs.cache
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.csproj.Up2Date
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.exe
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.pdb
+D:\study\code\C#\RFID_Read\RFID_Read\bin\Release\RFID_Read.exe.manifest
+D:\study\code\C#\RFID_Read\RFID_Read\bin\Release\RFID_Read.application
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.exe.manifest
+D:\study\code\C#\RFID_Read\RFID_Read\obj\Release\RFID_Read.application
